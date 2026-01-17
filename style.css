@@ -587,4 +587,13 @@ body{
 .box4 p{
     font-size: 10px;
 }
+.container {
+    width: 100%;
+}
+.box12 h1{
+    font-size: 17px;
+}
+.box12 p{
+    font-size: 10px;
+}
 }
